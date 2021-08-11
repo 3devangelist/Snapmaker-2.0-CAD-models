@@ -10,5 +10,5 @@ Please use the minimal features to the max modelling, less is more this case is 
 
 Base Model to the 3 Add ons CNC LASER and FFF
 
-![Base Model](https://github.com/3devangelist/Snapmaker-2.0-CAD-models/blob/main/images/BASE_Model.png)
+![Base Model](https://github.com/3devangelist/Snapmaker-2.0-CAD-models/blob/main/images/BASE_Model.png) ![Base Model2](https://github.com/3devangelist/Snapmaker-2.0-CAD-models/blob/main/images/BASE_Model_2.png)
 
