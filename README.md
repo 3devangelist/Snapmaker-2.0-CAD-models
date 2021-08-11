@@ -15,5 +15,5 @@ https://a360.co/2VNSOOi
 
 Laser Module
 https://a360.co/3Ay0S4w
-!LAser Module](https://github.com/3devangelist/Snapmaker-2.0-CAD-models/blob/main/images/Laser%20Module.png)
+![LAser Module](https://github.com/3devangelist/Snapmaker-2.0-CAD-models/blob/main/images/Laser%20Module.png)
 
